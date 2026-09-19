@@ -1,0 +1,7 @@
+# Fichiers de compilation temporaires
+*.o
+*.elf
+*.hex
+
+# Fichiers de sauvegarde de Proteus
+*.pdsbak
